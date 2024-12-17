@@ -45,12 +45,14 @@
   <img width="12" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt0UlJUvLLMrRxceySJK7mszAWuQh0xE9yUA&s" height="40" alt="scratch logo"  />
   <img width="12" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://static.wixstatic.com/media/0d6674_f9adb8839e584504a020c589e02b93ea~mv2.png/v1/fill/w_980,h_979,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/Frame%201000001764.png" height="40" alt="wix logo"  />
+   <img src=" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />" height="40" alt="kubernetes logo"  />
+  <img width="12" />
 </div>
 
 ###
