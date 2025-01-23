@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm from Navi Mumbai <br><br>- 🔭 I’m working as a student in ITM skill uni. <br>- 📚 I'm currently learning B.tech CSE <br>- ⚡ In my free time I am a chess player, atist and a coder.</p>
+<p align="left">I'm from Navi Mumbai <br><br>- 🔭 I’m working as a student in ITM skill uni. <br>- 📚 I'm currently learning B.tech CSE <br>- ⚡ In my free time I am a chess player, artist and a coder.</p>
 
 ###
 
