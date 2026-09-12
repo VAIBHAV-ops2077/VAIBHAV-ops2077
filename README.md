@@ -95,7 +95,6 @@ $ ./connect --socials
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com)
 &nbsp;
-[![X/Twitter](https://img.shields.io/badge/X-Follow-0d1117?style=for-the-badge&logo=x&logoColor=white)](https://x.com)
 
 </div>
 
@@ -103,6 +102,6 @@ $ ./connect --socials
 
 <div align="center">
 
-<sub><code>// VAIBHAV-OPS2077 &nbsp;·&nbsp; ALL SYSTEMS OPERATIONAL &nbsp;·&nbsp; 2025 //</code></sub>
+<sub><code>// VAIBHAV-OPS2077 &nbsp;·&nbsp; ALL SYSTEMS OPERATIONAL &nbsp; //</code></sub>
 
 </div>
