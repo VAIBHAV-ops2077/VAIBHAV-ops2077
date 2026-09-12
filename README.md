@@ -70,37 +70,6 @@ Not an expert yet. Getting there.
 
 ────────────────────────────────────────────────────────────────
 
-<div align="center">
-
-```
-╭──────────────────────────────────────────╮
-│  PROJECT ARCHIVE                         │
-╰──────────────────────────────────────────╯
-```
-
-</div>
-
-**[ First-HTML-website ]**  
-My first attempt at building a web page. HTML from scratch, no frameworks.  
-→ [View repository](https://github.com/VAIBHAV-ops2077/First-HTML-website)
-
-**[ Unreal\_Engine ]**  
-Exploring Unreal Engine — early experiments with game development and 3D environments.  
-→ [View repository](https://github.com/VAIBHAV-ops2077/Unreal_Engine)
-
-**[ my-first--text-project ]**  
-An early text-based project. Learning how to structure and ship code.  
-→ [View repository](https://github.com/VAIBHAV-ops2077/my-first--text-project)
-
-**[ 20-10-Assignment1 ]**  
-Academic assignment repository — coursework and learning exercises.  
-→ [View repository](https://github.com/VAIBHAV-ops2077/20-10-Assignment1)
-
-**[ example ]**  
-Experimental / learning repository.  
-→ [View repository](https://github.com/VAIBHAV-ops2077/example)
-
-────────────────────────────────────────────────────────────────
 
 **GITHUB STATS**
 
