@@ -1,68 +1,139 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
-
-###
+<!--
+  VAIBHAV-OPS2077
+  GitHub Profile README
+-->
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+
+```
+   :::     :::     :::     ::::::::::: :::::::::  :::    :::     :::     :::     ::: 
+  :+:     :+:   :+: :+:       :+:     :+:    :+: :+:    :+:   :+: :+:   :+:     :+: 
+ +:+     +:+  +:+   +:+      +:+     +:+    +:+ +:+    +:+  +:+   +:+  +:+     +:+  
++#+     +:+ +#++:++#++:     +#+     +#++:++#+  +#++:++#++ +#++:++#++: +#+     +:+   
++#+   +#+  +#+     +#+     +#+     +#+    +#+ +#+    +#+ +#+     +#+  +#+   +#+      
+#+#+#+#   #+#     #+#     #+#     #+#    #+# #+#    #+# #+#     #+#   #+#+#+#       
+ ###     ###     ### ########### #########  ###    ### ###     ###     ###          
+```
+
+
+**STUDENT // DEVELOPER // BUILDER**  
+Navi Mumbai, India
+
 </div>
 
-###
+────────────────────────────────────────────────────────────────
 
-<h1 align="center">hey there I am Vaibhav</h1>
+```
+$ whoami
+```
 
-###
+Vaibhav Kawde — B.Tech CSE student at ITM Skills University.  
+Currently learning ML and Python while building software and exploring creative technology.
 
-<h3 align="left">👩‍💻  About Me</h3>
+Outside of code: **♟ chess** — **🎨 art** — **🔧 building things**
 
-###
+────────────────────────────────────────────────────────────────
 
-<p align="left">I'm from Navi Mumbai <br><br>- 🔭 I’m working as a student in ITM skill uni. <br>- 📚 I'm currently learning B.tech CSE <br>- ⚡ In my free time I am a chess player, artist and a coder.</p>
+```
+$ cat about.txt
+```
 
-###
+I'm a student figuring things out one project at a time — writing code, breaking things, and learning from both.
+Interested in AI/ML, software development, and anything that sits at the intersection of technology and creativity.
+Not an expert yet. Getting there.
 
-<h3 align="left">🛠 Language and tools</h3>
+────────────────────────────────────────────────────────────────
 
-###
+**CURRENTLY LEARNING**
 
-<div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/230px-Python-logo-notext.svg.png" height="40" alt="Python logo"  />
-  <img width="12" />
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://e7.pngegg.com/pngimages/780/934/png-clipart-html-logo-html5-logo-icons-logos-emojis-tech-companies-thumbnail.png" height="40" alt="html logo"  />
-  <img width="12" />
-  <img src="https://cdn2.unrealengine.com/ue-logotype-2023-vertical-white-1686x2048-bbfded26daa7.png" height="40" alt="unreal logo"  />
-  <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt0UlJUvLLMrRxceySJK7mszAWuQh0xE9yUA&s" height="40" alt="scratch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://static.wixstatic.com/media/0d6674_f9adb8839e584504a020c589e02b93ea~mv2.png/v1/fill/w_980,h_979,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/Frame%201000001764.png" height="40" alt="wix logo"  />
-   <img src=" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-</div>
+```
+[01]  Machine Learning
+[02]  Python  (going deeper)
+[03]  AI / ML Pipelines
+[04]  Software Architecture
+[05]  Cloud + DevOps  (Kubernetes, Docker)
+```
 
-###
+────────────────────────────────────────────────────────────────
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+**TECH STACK**
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=vaibhav-ops2077&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+
+`Python` &nbsp; `Java` &nbsp; `HTML` &nbsp; `JavaScript` &nbsp; `Scratch`
+
+`Git` &nbsp; `GitHub` &nbsp; `Docker` &nbsp; `Kubernetes` &nbsp; `Linux` &nbsp; `VS Code`
+
+`Unity` &nbsp; `Unreal Engine` &nbsp; `Jupyter`
+
 </div>
 
-###
+────────────────────────────────────────────────────────────────
+
+<div align="center">
+
+```
+╭──────────────────────────────────────────╮
+│  PROJECT ARCHIVE                         │
+╰──────────────────────────────────────────╯
+```
+
+</div>
+
+**[ First-HTML-website ]**  
+My first attempt at building a web page. HTML from scratch, no frameworks.  
+→ [View repository](https://github.com/VAIBHAV-ops2077/First-HTML-website)
+
+**[ Unreal\_Engine ]**  
+Exploring Unreal Engine — early experiments with game development and 3D environments.  
+→ [View repository](https://github.com/VAIBHAV-ops2077/Unreal_Engine)
+
+**[ my-first--text-project ]**  
+An early text-based project. Learning how to structure and ship code.  
+→ [View repository](https://github.com/VAIBHAV-ops2077/my-first--text-project)
+
+**[ 20-10-Assignment1 ]**  
+Academic assignment repository — coursework and learning exercises.  
+→ [View repository](https://github.com/VAIBHAV-ops2077/20-10-Assignment1)
+
+**[ example ]**  
+Experimental / learning repository.  
+→ [View repository](https://github.com/VAIBHAV-ops2077/example)
+
+────────────────────────────────────────────────────────────────
+
+**GITHUB STATS**
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=VAIBHAV-ops2077&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=58a6ff&text_color=8b949e&rank_icon=github" height="155" alt="GitHub Stats" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VAIBHAV-ops2077&layout=compact&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e" height="155" alt="Top Languages" />
+
+<img src="https://streak-stats.demolab.com?user=VAIBHAV-ops2077&theme=dark&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=555" alt="GitHub Streak" />
+
+</div>
+
+────────────────────────────────────────────────────────────────
+
+```
+$ ./connect
+```
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-VAIBHAV--ops2077-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/VAIBHAV-ops2077)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0d1117?style=flat-square&logo=linkedin&logoColor=white)](<!-- ADD YOUR LINKEDIN URL HERE -->)
+&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-follow-0d1117?style=flat-square&logo=x&logoColor=white)](<!-- ADD YOUR TWITTER URL HERE -->)
+
+</div>
+
+────────────────────────────────────────────────────────────────
+
+<div align="center">
+
+<sub>VAIBHAV-OPS2077 &nbsp;·&nbsp; last updated 2025</sub>
+
+</div>
