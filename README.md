@@ -72,6 +72,14 @@ $ cat roadmap.log
 </div>
 
 ────────────────────────────────────────────────────────────────
+<p align="center">
+  <img
+    src="./gif.gif"
+    width="500"
+    alt="Vaibhav coding animation"
+  />
+</p>
+────────────────────────────────────────────────────────────────
 
 ```
 $ gh stats --user VAIBHAV-ops2077
